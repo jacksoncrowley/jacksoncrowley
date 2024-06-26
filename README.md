@@ -1,7 +1,7 @@
-![alt-text](https://github.com/jacksoncrowley/jacksoncrowley/blob/main/YP7dZ3Yq_400x400.jpg "Me!")
+#### Australian Biophysics PhD student, working at the CNRS in Lyon, France.
 
-
-Australian Biophysics PhD student, working at the CNRS in Lyon.
+🛠️ Coarse-Grained and Atomistic Molecular Dynamics simulations, typically with [GROMACS](https://www.gromacs.org/)
 
 🌱 Currently working on non-equilibrium simulations of lipid droplets (and more!)
+
 💻 Coding in `python`, `bash`, learning `julia`
