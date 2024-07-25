@@ -4,6 +4,6 @@
 
 🌱 Currently working on non-equilibrium simulations of lipid droplets (and more!)
 
-💻 Coding in `python`, `bash`, learning `julia`
+💻 Coding in `python`, `bash`, learning `golang`, `julia`
 
 ✍🏻 Writing a [technical blog](https://jacksoncrowley.xyz/posts/) where I write about molecular dynamics stuff, and a [personal blog](https://invisiblewalls.substack.com/) about everything else.
