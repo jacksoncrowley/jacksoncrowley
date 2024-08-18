@@ -1,4 +1,4 @@
-#### Australian Biophysics PhD student, working at the CNRS in Lyon, France.
+#### Australo-Hungarian Biophysics PhD student, working at the CNRS in Lyon, France.
 
 🛠️ Coarse-Grained and Atomistic Molecular Dynamics simulations, typically with [GROMACS](https://www.gromacs.org/)
 
