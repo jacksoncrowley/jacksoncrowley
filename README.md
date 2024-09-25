@@ -4,4 +4,4 @@
 
 🌱 Currently working on non-equilibrium simulations of lipid droplets (and more!)
 
-✍🏻 Writing a [technical blog](https://jacksoncrowley.xyz/posts/) where I write about molecular dynamics stuff, and a [personal blog](https://invisiblewalls.substack.com/) about everything else.
+✍🏻 Writing a [technical blog](https://jacksoncrowley.xyz/posts/) where I write about molecular dynamics stuff.
